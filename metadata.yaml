@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36861
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Henry_Lloyd
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34198#The-Will-to-DoubtAn-essay-in-philosophy-for-the-general-thinker
 gutenberg_issued: '2010-11-03'
 gutenberg_type: Text
 identifiers:
